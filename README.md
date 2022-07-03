@@ -4,6 +4,12 @@
 PLEASE NOTE: If you wish to fork this project, or edit and publically release your own verison of The Basics,
 please DM "TYavaJ#0069" on discord for permission. Without my permission, you are not allowed to fork this project.
 
+# What Is Ultimate Colors?
+
+Ultimate Colors is a seperate texture pack, made by yours truely (TYavaJ) full of the best colors
+you could ever need! It has 3 differnt types of Red, Orange, Yellow, Green, Blue & Purple, along with
+special colors like pink, cyan, brown & more!
+
 THE BASICS VERISON: v0.1
 # CHANGELOG
 - Added Following Colors:
