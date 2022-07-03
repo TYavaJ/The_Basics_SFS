@@ -5,7 +5,7 @@ PLEASE NOTE: If you wish to fork this project, or edit and publically release yo
 please DM "TYavaJ#0069" on discord for permission. Without my permission, you are not allowed to fork this project.
 
 THE BASICS VERISON: v0.1
-#CHANGELOG
+# CHANGELOG
 - Added Following Colors:
   - Red, Red_Dark, Red_Pastel
   - Orange, Orange_Dark, Orange_Pastel
